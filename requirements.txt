@@ -1,0 +1,7 @@
+pandas
+polars
+seaborn
+matplotlib
+requests
+openpyxl
+tqdm
