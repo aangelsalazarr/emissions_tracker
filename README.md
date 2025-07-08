@@ -16,10 +16,13 @@ Purpose: to develop software tools for the analysis of emissions across the Unit
     - Production Trends (Growth)
     - Identifying Public and Private operators
 
+## Notebooks
+1. [Bakken Formation](bakken_ET.ipynb)
+    - Focused on Bakken Play and Fort Berthold Reservation
 
 ## Datasets/Sources
 - [Environmental Protection Agency](https://www.epa.gov/enviro/envirofacts-web-services)
 - [North Dakota](https://www.dmr.nd.gov/oilgas/)
 
 ## Required Packages
-- 
+- Located in [requirements.txt](requirements.txt)
