@@ -161,3 +161,4 @@ cython_debug/
 
 # hiding monthlies to avoid big data files being pushed
 mpr_data
+mapping_data/usa_county.geojson

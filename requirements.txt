@@ -6,3 +6,5 @@ requests
 openpyxl
 tqdm
 pyarrow
+geopandas
+plotly

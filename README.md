@@ -23,6 +23,8 @@ Purpose: to develop software tools for the analysis of emissions across the Unit
 ## Datasets/Sources
 - [Environmental Protection Agency](https://www.epa.gov/enviro/envirofacts-web-services)
 - [North Dakota](https://www.dmr.nd.gov/oilgas/)
+- [USA County Map](https://public.opendatasoft.com/explore/dataset/georef-united-states-of-america-county/export/?flg=en-us&disjunctive.ste_code&disjunctive.ste_name&disjunctive.coty_code&disjunctive.coty_name)
+    - specifically, we will be downloading the .geojson file
 
 ## Required Packages
 - Located in [requirements.txt](requirements.txt)
