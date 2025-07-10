@@ -18,7 +18,11 @@ Purpose: to develop software tools for the analysis of emissions across the Unit
 
 ## Notebooks
 1. [Bakken Formation](bakken_ET.ipynb)
-    - Focused on Bakken Play and Fort Berthold Reservation
+- Focused on Bakken Play and Fort Berthold Reservation
+
+2. [EPA National Emissions](epa_emissions_facilities.ipynb)
+- We are developing tools that can extract and transform facility level data
+- 
 
 ## Datasets/Sources
 - [Environmental Protection Agency](https://www.epa.gov/enviro/envirofacts-web-services)
